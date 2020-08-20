@@ -18,7 +18,7 @@
     "@types/crypto-random-string": "^2.0.0",
     "bluebird": "^3.5.5",
     "cors": "^2.8.5",
-    "bcrypt": "3.0.7",
+    "bcrypt": "5.0.0",
     "crypto-random-string": "^3.0.1",
     "express": "^4.17.1",
     "fluent-ffmpeg": "^2.1.2",
